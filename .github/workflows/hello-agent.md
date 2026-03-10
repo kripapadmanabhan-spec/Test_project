@@ -9,4 +9,5 @@ tools:
 
 # Hello Agent Example
 
-Say "Hello from Agentic Workflows" in the workflow run output.
+Print “Hello from Agentic Workflows” in the workflow output.
+
